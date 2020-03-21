@@ -1,0 +1,15 @@
+h1
+{
+	color:blue;
+}
+
+h2
+{
+	text-decoration : underline dotted red;
+}
+
+ul,li
+{
+	margin: 0px;
+	padding: 0px;
+}
